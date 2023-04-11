@@ -1,5 +1,4 @@
-## Glimpse of the project
-
+## Snapdeal landing
 ### Login Page
 <img src="https://miro.medium.com/max/1400/1*L9gu-3TZ3mORn16w6TUOgg.jpeg" />
 
