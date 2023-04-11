@@ -1,4 +1,11 @@
-## Snapdeal landing
+# Snapdeal-Clone
+Built the clone of Snapdeal website. Features :- Product details, Explore section to view products, Cart page, Payment Gateway
+
+## This website is hosted on herokuapp.com
+Link to visit site:- https://snapdeal-clone.vercel.app/
+
+## Glimpse of the project
+
 ### Login Page
 <img src="https://miro.medium.com/max/1400/1*L9gu-3TZ3mORn16w6TUOgg.jpeg" />
 
@@ -11,5 +18,28 @@
 ### Cart page
 
 <img src="https://miro.medium.com/max/1400/1*7KyZyFdzRFjlp_6VAhfuzQ.jpeg" width="100%" height="auto" />
-Build a Snapdeal Clone project using Html, CSS, JS and React Js.
+
+
+
+
+## Technology used
+
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="100px" />
+
+## Functionality
+* Login and Persistent Storage
+
+ * Product Page
+
+* Product Catalog
+
+* Shopping Cart Page
+
+* Payment Modal
+
+
+
+
+
+
 
