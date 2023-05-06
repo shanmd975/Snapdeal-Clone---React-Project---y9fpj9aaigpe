@@ -2,7 +2,7 @@
 Built the clone of Snapdeal website. Features :- Product details, Explore section to view products, Cart page, Payment Gateway
 
 ## This website is hosted on herokuapp.com
-Link to visit site:- https://snapdeal-clone.vercel.app/
+Link to visit site:-https://shanmd975.github.io/Snapdeal-Clone---React-Project---y9fpj9aaigpe/
 
 ## Glimpse of the project
 
