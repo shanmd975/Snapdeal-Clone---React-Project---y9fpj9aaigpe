@@ -1,6 +1,3 @@
-
-
-
 let sliders = document.querySelectorAll(".slides");
 let prevBtn = document.querySelector(".prevBtn");
 let nextBtn = document.querySelector(".nextBtn");
